@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-blank",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "Blank Create React App template.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thienry/cra-template-blank.git",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/thienry/cra-template-blank/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
